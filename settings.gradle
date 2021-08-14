@@ -1,0 +1,6 @@
+include ':retromaster'
+include ':retroclient'
+include ':retrofitexample'
+include ':retrofitStudy'
+include ':retrofit'
+rootProject.name = "My Application"
